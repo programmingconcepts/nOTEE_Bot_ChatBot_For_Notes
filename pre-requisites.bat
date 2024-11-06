@@ -1,0 +1,1 @@
+pip install python-docx transformers numpy pandas sentence_transformers keybert
